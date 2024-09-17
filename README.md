@@ -111,6 +111,7 @@ Filtered results where:
 1. Added a readme file
 2. Edited readme file
 3. Reworked on the phython code
+4. Added code for the graph for part 2
 
 ---
 
